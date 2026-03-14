@@ -20,4 +20,13 @@ public class Client implements IClient {
 
         return copie;
     }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("Client{");
+        sb.append("nume='").append(nume).append('\'');
+        sb.append(", email='").append(email).append('\'');
+        sb.append('}');
+        return sb.toString();
+    }
 }
