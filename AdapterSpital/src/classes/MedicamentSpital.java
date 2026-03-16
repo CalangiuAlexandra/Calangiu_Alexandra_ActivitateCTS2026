@@ -7,6 +7,6 @@ public class MedicamentSpital {
 
     public void achizitioneazaMedicament() {
         prezintaReteta();
-        System.out.println("Medicament achizitionat din sistemul spitalului.");
+        System.out.println("Medicament achizitionat din spital.");
     }
 }
