@@ -1,6 +1,6 @@
 package classes;
 
-class SoftBucatarie {
+public class SoftBucatarie {
     public void tiparesteBon() {
         System.out.println("Bon tiparit de sistemul vechi.");
     }
