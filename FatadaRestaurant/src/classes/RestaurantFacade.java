@@ -1,6 +1,6 @@
 package classes;
 
-class RestaurantFacade {
+public class RestaurantFacade {
     private Masa masa;
     private Curatenie curatenie;
     private Servetele servetele;
