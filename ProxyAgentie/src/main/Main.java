@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         Rezervare rezervare = new ProxyRezervare();
 
-        rezervare.rezerva("Ion Popescu", 70); // OK
-        rezervare.rezerva("Maria Ionescu", 40); // Blocat
+        rezervare.rezerva("Alexandra", 70);
+        rezervare.rezerva("Damian", 40);
     }
 }
