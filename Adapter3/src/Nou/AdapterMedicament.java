@@ -1,6 +1,6 @@
 package Nou;
 
-import classes.Existent.IMedicamentSpital;
+import Existent.IMedicamentSpital;
 
 public class AdapterMedicament implements IMedicamentSpital {
     private AMedicament medicament;

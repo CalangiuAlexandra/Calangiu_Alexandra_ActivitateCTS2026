@@ -1,6 +1,6 @@
 package Nou;
 
-import classes.Existent.MedicamentSpital;
+import Existent.MedicamentSpital;
 
 public class MedicamentFarmacie extends AMedicament {
     public MedicamentFarmacie(String nume, float pret, int nrBucati) {
